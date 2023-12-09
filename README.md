@@ -30,7 +30,7 @@
 
 ### Instructions
 
-1. URL:  https://github.com/techbrainwave/CS7641-ML-Fall22-03-UnsupervisedLearning
+1. [URL](https://github.com/techbrainwave/CS7641-ML-Fall22-03-UnsupervisedLearning)
 2. Click on "Code" 
 3. Click on "Download ZIP"
 4. Unzip the files
