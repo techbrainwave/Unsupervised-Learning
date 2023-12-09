@@ -8,9 +8,10 @@
 1. Principal component analysis (PCA)
 2. Fast Independent Component Analysis (ICA)
 3. Random Projections Gaussian
-4. Extremely Randomized Trees
+4. Extremely Randomized Trees  
 
-![](https://github.com/techbrainwave/CS7641-ML-Fall22-03-UnsupervisedLearning/blob/main/data/Raisin_PCA_.png)
+
+<img src="https://github.com/techbrainwave/Unsupervised-Learning/blob/main/data/Raisin_PCA_.png" alt="pca" width="500"/>
 
 ## Classification Algorithms
 1. Multi-layer Perceptron (Neural Network)
